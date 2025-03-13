@@ -5,7 +5,7 @@ Bots:
 - Oblivion
 
 1lb Full Combat Antweight Division (ANT):
-- EviscerANT (in development)
+- EviscerANT (coming soon)
 
 3lb Beetleweight Divions:
-- coming soon
+- (coming soon)
