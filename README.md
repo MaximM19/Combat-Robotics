@@ -1,7 +1,11 @@
 # Combat-Robotics
-Bots:
+Bots:  
 1lb Plastic Antweight Division (PLANT):
-- Eviscerator
-- Oblivion
+- Eviscerator V8
+- Oblivion V2
+
 1lb Full Combat Antweight Division (ANT):
-- Eviscerator (in development)
+- EviscerANT (in development)
+
+3lb Beetleweight Divions:
+- coming soon
