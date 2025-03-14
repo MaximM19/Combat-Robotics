@@ -8,4 +8,4 @@
 
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
 ![Eviscerator V8](ImagesEviscerator/o4.webp)
-![Eviscerator V8](ImagesEviscerator/p1.jpg)
+![Eviscerator V8](ImagesEviscerator/p6.jpg)
