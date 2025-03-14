@@ -7,4 +7,4 @@
 - drive consists of 4 1000RPM N20 motors
 
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
-
+![Eviscerator V8](ImagesEviscerator/04.webp)
