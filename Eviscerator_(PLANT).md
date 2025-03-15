@@ -11,6 +11,8 @@ Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic An
 
 ![Eviscerator V8](ImagesEviscerator/p6.jpg)
 
+Note: This was a late/final version of V7
+
 Design Journey
 ---
 **V0:**
