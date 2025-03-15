@@ -57,6 +57,8 @@ I mainly just played around with the design while trying to optimize it and get 
 **V4:**
 ---
 
+Due to belt slippage and the tiny tires, the bot was very slow. To make matters worse I still had not fixed the spontaneous self-flipping issue. That was when I had started to learn about the Intermediate Axis Theorem, which explained why I was flipping myself, but it would take me a long while to understand it better and resolve that problem. I tried to implement "wings" to increase the moment of inertia (MOI) of my bot along the axis horizontally perpendicular to the main weapon axis, but as it would later turn out, I misread the MOI values by a decimal place, leading me to falsely believe I had a stable ratio.  
+
 ![Eviscerator V4](ImagesEviscerator/n29.png)
 ![Eviscerator V4](ImagesEviscerator/n28.png)
 ![Eviscerator V4](ImagesEviscerator/n26.png)
