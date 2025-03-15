@@ -1,10 +1,14 @@
 # Eviscerator
+
 ([back](README.md))
+
 <br>Current Version brief overview:
 - overhead spinner w/4WD
 - ~9in diameter 120g weapon
 - weapon motor: 1300KV 2806.5 brushless
 - drive consists of 4 1000RPM N20 motors
+
+---
 
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
 
@@ -19,9 +23,10 @@ Results of my match with Bucktoof (Bucktoof pictured below) which colored the en
 
 ![Eviscerator V7](ImagesEviscerator/p5.jpg)
 
+
 Design Journey
 ---
-**V0:**
+**Version 0:**
 ---
 
 I initially based my design on Icewave from Battlebots and knew a few key things that I needed my design to have which were: a low center of mass, and wide flat base. To achieve this I decided to try and move the weapon motor above the weapon and have a reduction to give the motor enough torque.
@@ -32,7 +37,7 @@ I initially based my design on Icewave from Battlebots and knew a few key things
 ![Eviscerator V0](ImagesEviscerator/n41.png)
 
 ---
-**V1:**
+**Version 1:**
 ---
 
   I thought that I could save weight by having a 3d printing bearing instead of a metal bearing and dived straight into CAD tutorial after tutorial. I would later realize this was a mistake, but it helped me learn how to work with assemblies better. The bearing I was trying to make was a slew bearing, but due to a variety of factors including tolerances and print imperfections, the bearing only worked well while not under heavy load.
@@ -44,7 +49,7 @@ I initially based my design on Icewave from Battlebots and knew a few key things
 ![Eviscerator V2](ImagesEviscerator/n36.png)
 
 ---
-**V2:**
+**Version 2:**
 ---
 
 I mainly just played around with the design while trying to optimize it and get drive working well and have a good weapon design. I faced 3 main issues, which were that the round belts I was using for drive either slipped a lot or had too much tension and the bot seemed to just flip itself when the spun up and was incapable of self-righting. It also didn't help that the night before one of my early competitions the bot basically exploded itself due to the chassis being insufficient in strength. It might have been V4 that exploded, but I don't remember exactly. Switching to a large diameter metal bearing was heavy, but ultimately lighter than the 3d printed abomination I had been designing and worked great.  
@@ -57,7 +62,7 @@ I mainly just played around with the design while trying to optimize it and get 
 ![Eviscerator V3](ImagesEviscerator/n30.jpg)
 
 ---
-**V3:**
+**Version 3:**
 ---
 
 Due to belt slippage and the tiny tires, the bot was very slow. To make matters worse I still had not fixed the spontaneous self-flipping issue. That was when I had started to learn about the Intermediate Axis Theorem, which explained why I was flipping myself, but it would take me a long while to understand it better and resolve that problem. I tried to implement "wings" to increase the moment of inertia (MOI) of my bot along the axis horizontally perpendicular to the main weapon axis, but as it would later turn out, I misread the MOI values by a decimal place, leading me to falsely believe I had a stable ratio.  
@@ -74,7 +79,7 @@ Due to belt slippage and the tiny tires, the bot was very slow. To make matters 
 ![Eviscerator V4](ImagesEviscerator/n20.png)
 
 ---
-**V4:**
+**Version 4:**
 ---
 
 This was where things started to click. I had given up on the belts and made sure that I could at least drive upside-down to be able to continue the match. Prior to this most of matches went like this:
@@ -99,7 +104,7 @@ So being able to stay in the match was a huge improvement, however my new weapon
 ![Eviscerator V5](ImagesEviscerator/n14.png)
 
 ---
-**V5:**
+**Version 5:**
 ---
 
 My biggest failure. In many ways an upgrade in design, but a major step back in performance. The first competition it was in I had to use a substitute motor, which did not have anywhere near enough torque. The weapon was also poorly designed when checked by the Intermediate Axis Theorem and resulted in very short matches that I lost. The cone also did not work at all to help with self-righting, in part due to my terrible weapon geometry. I tried to play around with aerodymanics, but for a variety of reasons there is a negligible benefit. The only positive for this design was I had converted to a monolith chassis with 4 small N20 motors which not only gave me 4WD and better steering, but aslo helped greatly with durability. 
@@ -110,7 +115,7 @@ My biggest failure. In many ways an upgrade in design, but a major step back in 
 ![Eviscerator V5](ImagesEviscerator/n10.png)
 
 ---
-**V6:**
+**Version 6:**
 ---
 
 It was at this time that I reached the cusp below true competitive viability. There were major issues, but they were just points for me to improve. To begin with, I started to learn about the importance of design adaptability for facing specific opponents. A wedge for facing other horizontal spinners and forks for facing vertical spinners and wedges. A tri-blade weapon design allowed for high stability and the new powerful motor had around double the torque. It was around this point that I changed from running a singular 3S Lithium Polymer (Lipo) battery to 2 4S Lipo running in series to gain a higher output voltage. A large dome on top allowed for the bot to roll over due to an intentionally offset COM. The initial dome design did not work however, and although not pictured, was shrunk down prior to competition and adjusted to allow for consistent self-righting. 
@@ -126,7 +131,7 @@ I had also identified an issue with the N20 drive motors. The large gears within
 ![Eviscerator V6](ImagesEviscerator/n3.png)
 
 ---
-**V7:**
+**Version 7:**
 ---
 
 This was the start of my victories. V7 did many things right. It redesigned the weapon after it broke by reoptimizing the end geometry and addressed the weapon cracking issues around the base/hub. The forks and wedge used a new mounting system entirely. No more screws. Instead a steel rod slid into the front of the monolith chassis and was retained by a set of shaft collars. The angles of both were limited by the chassis wall behind them to prevent damage when bouncing around. The top plate was divided into segments that made sense for easy battery access and maintenance and the overheating issues that plagued the prior version and melted through chassis within 1-2 matches were also addressed. 
@@ -152,7 +157,7 @@ Pre-competition design (early V7):
 V7 brought Eviscerator to gain a 2nd place finish at NTBB followed by a 6-0 victory at the TRC Texas Cup 2024. 
 
 ---
-**V8:**
+**Version 8:**
 ---
 
 Still in development. Many small changes were made following an unsatisying loss at NTBB early in 2025. 
