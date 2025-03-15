@@ -1,8 +1,12 @@
 # Oblivion
 ([back](README.md))
-<br>Current Version brief overview:
+<br>Current Version (V2) brief overview:
 - Vertical drum spinner
 - 4WD system using 2 brushed drive motors
 - 2207 brushless weapon motor
 - Uniquely keyed geometry
 - Ability to swap between forks and wedge depending on matchup
+  
+![Oblivion V2](ImagesOblivion/h1.jpg)
+![Oblivion V2](ImagesOblivion/h2.jpg)
+
