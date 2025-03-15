@@ -94,7 +94,7 @@ So being able to stay in the match was a huge improvement, however my new weapon
 **V5:**
 ---
 
-My biggest failure. In many ways an upgrade in design, but a major step back in performance. The first competition it was in I had to use a substitute motor, which did not have anywhere near enough torque. The weapon was also poorly designed when checked by the Intermediate Axis Theorem and resulted in very short matches that I lost. 
+My biggest failure. In many ways an upgrade in design, but a major step back in performance. The first competition it was in I had to use a substitute motor, which did not have anywhere near enough torque. The weapon was also poorly designed when checked by the Intermediate Axis Theorem and resulted in very short matches that I lost. The cone also did not work at all to help with self-righting, in part due to my terrible weapon geometry. I tried to play around with aerodymanics, but for a variety of reasons there is a negligible benefit. The only positive for this design was I had converted to a monolith chassis which helped greatly with durability. 
 
 ![Eviscerator V5](ImagesEviscerator/n13.png)
 ![Eviscerator V5](ImagesEviscerator/n12.png)
