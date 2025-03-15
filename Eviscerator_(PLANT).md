@@ -127,6 +127,12 @@ So being able to stay in the match was a huge improvement, however my new weapon
 **V7:**
 ---
 
+Weapon broken during testing:
+
+![Eviscerator V7](ImagesEviscerator/o5.jpg)
+
+Pre-competition design (early V7):
+
 ![Eviscerator V7](ImagesEviscerator/n2.png)
 ![Eviscerator V7](ImagesEviscerator/n1.png)
 ![Eviscerator V7](ImagesEviscerator/p1.jpg)
