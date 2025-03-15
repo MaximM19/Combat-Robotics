@@ -1,8 +1,8 @@
-## Eviscerator
+# Eviscerator
 
 ([back](README.md))
 
-<br>Current Version brief overview:
+### Current Version brief overview:
 - Overhead spinner w/4WD
 - ~9in diameter 120g weapon
 - Weapon motor: 1300KV 2806.5 brushless
@@ -166,4 +166,4 @@ Still in development. Many small changes were made following an unsatisying loss
 
 The weapon hub has been optimized by printing the dome and hub as two separate pieces to maximize their individual strength. The chassis experienced numerous mounting point failures after nearly 10 matches of endurance, resulting in a complete failure. The weapon motor had a magnet break off the magnet ring, and from now on, the motor will be battle-hardened (the magnet ring will be epoxied to exponentially improve its strength and durability). The weapon geometry is also being refined to further improve the weapon’s ability to bite into opponents when driving at lower speeds. This bot is serving as the prototype for an in-development Antweight version, with plans to return to competitions in the near future.
  
-[back to top](https://github.com/MaximM19/Combat-Robotics/blob/main/Eviscerator_(PLANT).md#eviscerator-plant)
+[back to top](#current-version-brief-overview)
