@@ -66,7 +66,7 @@ Due to belt slippage and the tiny tires, the bot was very slow. To make matters 
 ![Eviscerator V4](ImagesEviscerator/n20.png)
 
 ---
-**V5:**
+**V4:**
 ---
 
 This was where things started to click. I had given up on the belts and made sure that I could at least drive upside-down to be able to continue the match. Prior to this most of matches went like this:
