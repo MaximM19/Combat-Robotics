@@ -11,7 +11,7 @@ Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic An
 
 ![Eviscerator V7](ImagesEviscerator/p6.jpg)
 
-Note: This was a late/final version of V7
+Note: This was a late/final version of V7 which went on to win in the rematch vs Double Stuff after losing in a prior competition
 
 Results of my match with Bucktoof (Bucktoof pictured below) which colored the ends of my weapon red:
 ![Eviscerator V7](ImagesEviscerator/p4.jpg)
@@ -127,6 +127,10 @@ So being able to stay in the match was a huge improvement, however my new weapon
 **V7:**
 ---
 
+This was the start of my victories. V7 did many things right. It redesigned the weapon after it broke by reoptimizing the end geometry and addressed the weapon cracking issues around the base/hub. The forks and wedge used a new mounting system entirely. No more screws. Instead a steel rod slid into the front of the monolith chassis and was retained by a set of shaft collars. The angles of both were limited by the chassis wall behind them to prevent damage when bouncing around. The top plate was divided into segments that made sense for easy battery access and maintenance and the overheating issues that plagued the prior version and melted through chassis within 1-2 matches were also addressed. 
+	The overheating issue took a while to determine, but essentially limited the motor output to achieve reasonable weapon tip speed which was carefully calculated based on the motor efficiency and points from the data sheet to determine optimal KV and operating % throttle (running full speed resulted in the weapon quite literally disintegrating due to excess forces). This kept the motor relatively cool even in longer matches and ensured no excessive battery drainage. The dome print orientation was modified to prevent the shearing issue as no matter the design, print temperature, or structure the dome continuously would shear horizontally. The dome was also changed into a weapon hub to which the weapon mounted and was optimized for the tri-blade weapon design. Since my weapon only spun in one direction, it was designed with that in mind, which allowed for easier optimization of weight. Additionally, within the chassis, slots were added to allow the drive motor gearboxes to be unimpeded instead of rubbing on their retaining walls.
+	In my matches at the competition (North Texas Bot Battles; NTBB) prior to TRC's Texas Cup I experienced many small issues, including but not limited to: drive ESC burnout/failure, top plate layer splitting resulting in weapon operation failure, mounting post/structural integrity issues, and weapon cracking (this was addressed, but that was following the competition)
+
 Weapon broken during testing:
 
 ![Eviscerator V7](ImagesEviscerator/o5.jpg)
@@ -138,3 +142,12 @@ Pre-competition design (early V7):
 ![Eviscerator V7](ImagesEviscerator/p1.jpg)
 ![Eviscerator V7](ImagesEviscerator/p2.jpg)
 ![Eviscerator V7](ImagesEviscerator/p3.jpg)
+
+V7 brought Eviscerator to gain a 2nd place finish at NTBB followed by a 6-0 victory at the TRC Texas Cup 2024. 
+
+---
+**V8:**
+---
+
+Still in development. Many small changes were made following an unsatisying loss at NTBB early in 2025. The weapon hub has been optimized by printing the dome and hub itself as 2 seperate pieces to maximum their individual stregnth. The chassis had numerous mounting points break after nearly 10 matches of endurance resulting in a complete failure. The weapon motor had a magnet break off the magnet ring and the motor in use will from now onwards be battle hardened (the magnet ring will be epoxied to exponentially improve its stregnth and durability). The weapon geometry is also being worked on to further improve the ability of the weapon to bite into opponents when driving at a lower speed. This bot is serving as the prototype for an in development Antweight version of the bot with plans to return to competitions in the near future. 
+
