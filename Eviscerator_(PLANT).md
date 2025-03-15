@@ -39,6 +39,11 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 ![Eviscerator V2](ImagesEviscerator/n38.png)
 ![Eviscerator V0](ImagesEviscerator/n37.png)
 ![Eviscerator V0](ImagesEviscerator/n36.png)
+
+---
+**V3:**
+---
+
 ![Eviscerator V0](ImagesEviscerator/n35.png)
 ![Eviscerator V0](ImagesEviscerator/n34.png)
 ![Eviscerator V0](ImagesEviscerator/n33.png)
