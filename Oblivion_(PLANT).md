@@ -15,7 +15,7 @@ My design skills have definitely improved and are visible not only in the bot it
 
 Design Journey
 ---
-**Version1:**
+**Version 1:**
 ---
 
 Where to start? I wanted to make something other than a horizontal spinner. Armed with my knowledge and experience as well as many hours in Solidworks, I jumped right in. It wasn't perfect by any means. The electronics were crammed to say the least, and maintenance was well, difficult. The bunny ears for self-righting constantly broke, and the high center of mass (COM) due to the weapon caused heavy gyroscopic effects when turning. Despite all of this, it won an unofficial competition, but clearly showed signs of the design reaching its limits... and following a competition at North Texas Bot Battles (NTBB) in early 2025, the damage I ignored from my first match resulted in catastrophic failure. The design was not only poorly designed to face horizontal spinners, but also lacked durability, strutural keying, and drive speed (partly due to heavy gyro when turning at all).
