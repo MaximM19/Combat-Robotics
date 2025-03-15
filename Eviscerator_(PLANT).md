@@ -44,7 +44,7 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 **V3:**
 ---
 
-I mainly just played around with the design while trying to optimize it and get drive working well and have a good weapon design. I faced 3 main issues, which were that the round belts I was using for drive either slipped a lot or had too much tension and the bot seemed to just flip itself when the spun up and was incapable of self-righting. It also didn't help that the night before one of my early competitions the bot basically exploded itself due to the chassis being insufficient in strength. It might have been V4 that exploded, but I don't remember exactly. 
+I mainly just played around with the design while trying to optimize it and get drive working well and have a good weapon design. I faced 3 main issues, which were that the round belts I was using for drive either slipped a lot or had too much tension and the bot seemed to just flip itself when the spun up and was incapable of self-righting. It also didn't help that the night before one of my early competitions the bot basically exploded itself due to the chassis being insufficient in strength. It might have been V4 that exploded, but I don't remember exactly. Switching to a large diameter metal bearing was heavy, but ultimately lighter than the 3d printed abomination I had been designing and worked great.  
 
 ![Eviscerator V3](ImagesEviscerator/n35.png)
 ![Eviscerator V3](ImagesEviscerator/n34.png)
