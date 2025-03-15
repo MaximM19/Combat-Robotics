@@ -3,10 +3,10 @@
 ([back](README.md))
 
 <br>Current Version brief overview:
-- overhead spinner w/4WD
+- Overhead spinner w/4WD
 - ~9in diameter 120g weapon
-- weapon motor: 1300KV 2806.5 brushless
-- drive consists of 4 1000RPM N20 motors
+- Weapon motor: 1300KV 2806.5 brushless
+- Drive consists of 4 1000RPM N20 motors
 
 ---
 
