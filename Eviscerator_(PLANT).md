@@ -14,6 +14,7 @@ Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic An
 Design Journey
 ---
 **V0:**
+---
 
 I initially based my design on Icewave from Battlebots and knew a few key things that I needed my design to have which were: a low center of mass, and wide flat base. To achieve this I decided to try and move the weapon motor above the weapon and have a reduction to give the motor enough torque.
 
@@ -25,12 +26,15 @@ I initially based my design on Icewave from Battlebots and knew a few key things
 ---
 **V1:**
 ---
+
 I thought that I could save weight by having a 3d printing bearing instead of a metal bearing and dived straight into CAD tutorial after tutorial. I would later realize this was a mistake, but it helped me learn how to work with assemblies better. The bearing I was trying to make was a slew bearing, but due to a variety of factors including tolerances and print imperfections, the bearing only worked well while not under heavy load.
 
 ![Eviscerator V1](ImagesEviscerator/n40.png)
 ![Eviscerator V1](ImagesEviscerator/n39.png)
 
+---
 **V2:**
+---
 
 ![Eviscerator V2](ImagesEviscerator/n38.png)
 ![Eviscerator V0](ImagesEviscerator/n37.png)
@@ -53,7 +57,9 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 ![Eviscerator V0](ImagesEviscerator/n20.jpg)
 ![Eviscerator V0](ImagesEviscerator/n20.png)
 
+---
 **V5:**
+---
 
 ![Eviscerator V0](ImagesEviscerator/n19.png)
 ![Eviscerator V0](ImagesEviscerator/n18.png)
@@ -68,7 +74,9 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 ![Eviscerator V0](ImagesEviscerator/n11.png)
 ![Eviscerator V0](ImagesEviscerator/n10.png)
 
+---
 **V6:**
+---
 
 ![Eviscerator V0](ImagesEviscerator/n9.png)
 ![Eviscerator V0](ImagesEviscerator/n8.png)
@@ -78,7 +86,9 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 ![Eviscerator V0](ImagesEviscerator/n4.png)
 ![Eviscerator V0](ImagesEviscerator/n3.png)
 
+---
 **V7:**
+---
 
 ![Eviscerator V0](ImagesEviscerator/n2.png)
 ![Eviscerator V0](ImagesEviscerator/n1.png)
