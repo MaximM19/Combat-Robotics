@@ -13,10 +13,12 @@ Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic An
 
 Design Journey
 ---
+I initially based my design on Icewave from Battlebots and knew a few key things that I needed my design to have which were: a low center of mass, and wide flat base. To achieve this I decided to try and move the weapon motor above the weapon and have a reduction to give the motor enough torque.
 ![Eviscerator V0](ImagesEviscerator/n44.png)
 ![Eviscerator V0](ImagesEviscerator/n43.png)
 ![Eviscerator V0](ImagesEviscerator/n42.png)
 ![Eviscerator V0](ImagesEviscerator/n41.png)
+
 ![Eviscerator V0](ImagesEviscerator/n40.png)
 ![Eviscerator V0](ImagesEviscerator/n39.png)
 ![Eviscerator V0](ImagesEviscerator/n38.png)
