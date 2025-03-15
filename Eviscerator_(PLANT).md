@@ -7,11 +7,16 @@
 - drive consists of 4 1000RPM N20 motors
 
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
-![Eviscerator V8](ImagesEviscerator/o4.webp)
+![Eviscerator V7](ImagesEviscerator/o4.webp)
 
-![Eviscerator V8](ImagesEviscerator/p6.jpg)
+![Eviscerator V7](ImagesEviscerator/p6.jpg)
 
 Note: This was a late/final version of V7
+
+Results of my match with Bucktoof (Bucktoof pictured below) which colored the ends of my weapon red:
+![Eviscerator V7](ImagesEviscerator/p4.jpg)
+
+![Eviscerator V7](ImagesEviscerator/p5.jpg)
 
 Design Journey
 ---
@@ -110,17 +115,20 @@ So being able to stay in the match was a huge improvement, however my new weapon
   It was at this time that I reached the cusp below true competitive viability. There were major issues, but they were just points for me to improve. To begin with, I started to learn about the importance of design adaptability for facing specific opponents. A wedge for facing other horizontal spinners and forks for facing vertical spinners and wedges. A tri-blade weapon design allowed for high stability and the new powerful motor had around double the torque. It was around this point that I changed from running a singular 3S Lithium Polymer (Lipo) battery to 2 4S Lipo running in series to gain a higher output voltage. A large dome on top allowed for the bot to roll over due to an intentionally offset COM. The initial dome design did not work however, and although not pictured, was shrunk down prior to competition and adjusted to allow for consistent self-righting. 
 	I had also identified an issue with the N20 drive motors. The large gears within their gearbox stuck out a fraction of a millimeter, and when rubbing on the side of the walls retaining them within the chassis caused the motors to bind. The screws holding the forks also liked to work themselves out and were extremely difficult to install and tighten. Additionally, when self-righting, the chassis would spin instead of the weapon, which is what created the instability necessary to rock and self-right using the dome. However, the chassis hitting the ground often broke the forks towards the edge. Due to me not having a wedge and my dome popping off when hitting people (it would break at the layer lines just above where it mounted to the weapon and pop off like an umbrella) I lost a match to a strong competitor who placed in the top 3. That bot was a horizontal ring spinner named Double Stuff. That was an important matched that showcased the newfound stability of my bot and it's newfound performance. Despite this, I essentially lost all of my matches.  
 
-![Eviscerator V0](ImagesEviscerator/n9.png)
-![Eviscerator V0](ImagesEviscerator/n8.png)
-![Eviscerator V0](ImagesEviscerator/n7.png)
-![Eviscerator V0](ImagesEviscerator/n6.png)
-![Eviscerator V0](ImagesEviscerator/n5.png)
-![Eviscerator V0](ImagesEviscerator/n4.png)
-![Eviscerator V0](ImagesEviscerator/n3.png)
+![Eviscerator V6](ImagesEviscerator/n9.png)
+![Eviscerator V6](ImagesEviscerator/n8.png)
+![Eviscerator V6](ImagesEviscerator/n7.png)
+![Eviscerator V6](ImagesEviscerator/n6.png)
+![Eviscerator V6](ImagesEviscerator/n5.png)
+![Eviscerator V6](ImagesEviscerator/n4.png)
+![Eviscerator V6](ImagesEviscerator/n3.png)
 
 ---
 **V7:**
 ---
 
-![Eviscerator V0](ImagesEviscerator/n2.png)
-![Eviscerator V0](ImagesEviscerator/n1.png)
+![Eviscerator V7](ImagesEviscerator/n2.png)
+![Eviscerator V7](ImagesEviscerator/n1.png)
+![Eviscerator V7](ImagesEviscerator/p1.jpg)
+![Eviscerator V7](ImagesEviscerator/p2.jpg)
+![Eviscerator V7](ImagesEviscerator/p3.jpg)
