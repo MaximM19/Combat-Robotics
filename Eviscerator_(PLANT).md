@@ -70,10 +70,15 @@ Due to belt slippage and the tiny tires, the bot was very slow. To make matters 
 ---
 
 This was where things started to click. I had given up on the belts and made sure that I could at least drive upside-down to be able to continue the match. Prior to this most of matches went like this:
+
 -> I spun up my weapon
+
 -> I hit my opponent one time
+
 -> I flip over
+
 -> I get stuck and get counted out
+
 So being able to stay in the match was a huge improvement, however my new weapon geometry was highly unfavorable for self-righting with my smaller brushless motor and the pulley on the weapon motor tended to melt away. Nonetheless, this was a major improvement in many facets. 
 
 ![Eviscerator V5](ImagesEviscerator/n19.png)
