@@ -31,17 +31,12 @@ I thought that I could save weight by having a 3d printing bearing instead of a 
 
 ![Eviscerator V1](ImagesEviscerator/n40.png)
 ![Eviscerator V1](ImagesEviscerator/n39.png)
-
----
-**V2:**
----
-
 ![Eviscerator V2](ImagesEviscerator/n38.png)
 ![Eviscerator V2](ImagesEviscerator/n37.png)
 ![Eviscerator V2](ImagesEviscerator/n36.png)
 
 ---
-**V3:**
+**V2:**
 ---
 
 I mainly just played around with the design while trying to optimize it and get drive working well and have a good weapon design. I faced 3 main issues, which were that the round belts I was using for drive either slipped a lot or had too much tension and the bot seemed to just flip itself when the spun up and was incapable of self-righting. It also didn't help that the night before one of my early competitions the bot basically exploded itself due to the chassis being insufficient in strength. It might have been V4 that exploded, but I don't remember exactly. Switching to a large diameter metal bearing was heavy, but ultimately lighter than the 3d printed abomination I had been designing and worked great.  
@@ -54,7 +49,7 @@ I mainly just played around with the design while trying to optimize it and get 
 ![Eviscerator V3](ImagesEviscerator/n30.jpg)
 
 ---
-**V4:**
+**V3:**
 ---
 
 Due to belt slippage and the tiny tires, the bot was very slow. To make matters worse I still had not fixed the spontaneous self-flipping issue. That was when I had started to learn about the Intermediate Axis Theorem, which explained why I was flipping myself, but it would take me a long while to understand it better and resolve that problem. I tried to implement "wings" to increase the moment of inertia (MOI) of my bot along the axis horizontally perpendicular to the main weapon axis, but as it would later turn out, I misread the MOI values by a decimal place, leading me to falsely believe I had a stable ratio.  
