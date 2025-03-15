@@ -1,5 +1,5 @@
 # Oblivion
-([back](README.md))
+([back to main page](README.md))
 
 <br>Current Version (V2) brief overview:
 - Vertical drum spinner
