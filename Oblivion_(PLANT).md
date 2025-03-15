@@ -10,6 +10,8 @@
 ![Oblivion V2](ImagesOblivion/h1.jpg)
 ![Oblivion V2](ImagesOblivion/h2.jpg)
 
+My design skills have definitely improved and are visible not only in the bot itself, but in parts fitting together and working properly from essentially the first print.
+
 Design Journey
 ---
 **V1:**
