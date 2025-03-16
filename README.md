@@ -17,7 +17,7 @@
 ---
 
 <video width="600" controls>
-  <source src="videos/example-video.mp4" type="video/mp4">
+  <source src="Eviscerator/Videos/eviscerator-vs-bucktoof.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
