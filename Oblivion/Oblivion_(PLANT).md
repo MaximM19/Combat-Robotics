@@ -1,5 +1,5 @@
 # Oblivion
-([back to main page](README.md))
+([back to main page](../README.md))
 
 ### Current Version (V2) brief overview:
 - Vertical drum spinner
@@ -47,4 +47,4 @@ A lot changed between V1 and V2. I realized that the uprights supporting the wea
 
 The current design is pictured at the top of this page and will be updated as the design is.
 
-[back to top](#current-version-v2-brief-overview)
+([back to top](#current-version-v2-brief-overview))
