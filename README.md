@@ -14,7 +14,7 @@
   
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
-
+---
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
 
 ![Eviscerator Win](Eviscerator/ImagesEviscerator/w1.png)
