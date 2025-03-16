@@ -16,7 +16,7 @@
 - (coming soon)
 ---
 
-https://github.com/MaximM19/Combat-Robotics/blob/92df99961e41de6a57ad96c8daf89db85723b464/Eviscerator/Videos/Eviscerator%20Vs%20Bucktoof.mp4
+https://github.com/MaximM19/Combat-Robotics/blob/92df99961e41de6a57ad96c8daf89db85723b464/Eviscerator/Videos/Eviscerator%20Vs%20Procrastination.mp4
 
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
 
