@@ -1,6 +1,6 @@
 # Eviscerator
 
-([back to main page](README.md))
+([back to main page](README.md/Eviscerator))
 ### Current Version brief overview:
 - Overhead spinner w/4WD
 - ~9in diameter 120g weapon
