@@ -15,6 +15,12 @@
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
 ---
+
+<video width="600" controls>
+  <source src="videos/example-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
 
 <img src="Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
