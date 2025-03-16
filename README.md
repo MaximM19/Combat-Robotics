@@ -16,6 +16,7 @@
 - (coming soon)
 ---
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
-<img src="Eviscerator/ImagesEviscerator/o4.webp" width="20%" />
-![Eviscerator V7](Eviscerator/ImagesEviscerator/o4.webp)
+
+<img src="Eviscerator/ImagesEviscerator/o4.webp" width="75%" />
+
 ![Eviscerator Win](Eviscerator/ImagesEviscerator/w1.png)
