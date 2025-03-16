@@ -1,6 +1,6 @@
 # Eviscerator
 
-([back to main page]([README.md/Eviscerator](https://github.com/MaximM19/Combat-Robotics/blob/main/README.md#competitive-combat-robotics)))
+([back to main page](../README.md)
 ### Current Version brief overview:
 - Overhead spinner w/4WD
 - ~9in diameter 120g weapon
