@@ -1,7 +1,7 @@
 # Oblivion
 ([back to main page](README.md))
 
-<br>Current Version (V2) brief overview:
+### Current Version (V2) brief overview:
 - Vertical drum spinner
 - 4WD system using 2 reapt brushed drive motors
 - Weapon Motor: 2207 1860KV Brushless
