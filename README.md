@@ -14,8 +14,15 @@
   
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
----
 
+---
+Built to Follow [SPARC Robot Construction Specifications](https://www.sparc.tools/SPARC_Robot_Construction_Specifications_v1.5.pdf)
+---
+More info on SPARC guidelines and rules can be found -> [here](https://www.sparc.tools/) <-
+
+---
+Eviscerator Version 7
+---
 <img src="Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
 
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
