@@ -12,7 +12,8 @@
   <img src="https://img.youtube.com/vi/Ix6BwbreU1s/0.jpg" width="400">
     </a>
     <br>
-    <em>Videos (YouTube): Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
+    <em>Videos (<a href="https://www.youtube.com/watch?v=Ix6BwbreU1s?list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">YouTube link</a>):  
+  Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above)</em>
   </p>
 - [Oblivion](Oblivion/Oblivion_(PLANT).md)
 
