@@ -8,8 +8,8 @@
    <!-- - Videos (youtube): Eviscerator @ TRC Texas Cup 2024 all matches ](https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT) -->
 
   <p align="left">
-  <a href="https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
-  <img src="https://img.youtube.com/vi/gL7ahHKzthY/0.jpg" width="400">
+  <a href="https://www.youtube.com/watch?v=Ix6BwbreU1s?list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
+  <img src="https://img.youtube.com/vi/Ix6BwbreU1s/0.jpg" width="400">
     </a>
     <br>
     <em>Videos (YouTube): Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
