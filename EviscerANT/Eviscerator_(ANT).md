@@ -1,6 +1,6 @@
 # Eviscerator (Full Combat Antweight)
 
-Still in development
+[ In development ]
 
 ---
 
