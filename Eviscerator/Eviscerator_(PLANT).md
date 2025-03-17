@@ -4,7 +4,7 @@
 ### Current Version brief overview:
 - Overhead spinner w/4WD
 - ~9in diameter 120g weapon
-- Weapon motor: 1300KV 2806.5 brushless
+- Weapon motor: 1300KV (RPM/Volt) 2806.5 brushless
 - Drive consists of 4 1000RPM N20 motors
 
 ---
@@ -139,7 +139,7 @@ Since I did not have a wedge and my dome would pop off upon impact (breaking at 
 
 This marked the start of my victories. V7 got many things right. It redesigned the weapon after it broke by re-optimizing the end geometry and addressing the weapon cracking issues around the base and hub. The forks and wedge used an entirely new mounting system—no more screws. Instead, a steel rod slid into the front of the monolithic chassis and was retained by a set of shaft collars. The angles of both were limited by the chassis wall behind them to prevent damage when bouncing around. The top plate was divided into segments for easy battery access and maintenance, and the overheating issues that plagued the previous version, causing it to melt through the chassis within 1-2 matches, were also addressed.
 
-The overheating issue took a while to pinpoint, but it was ultimately determined that limiting the motor output was necessary to achieve a reasonable weapon tip speed. This speed was carefully calculated based on the motor efficiency and data sheet specifications to determine the optimal KV and operating percentage of throttle. Running at full speed resulted in the weapon literally disintegrating due to excessive forces. By limiting the output, I was able to keep the motor relatively cool even in longer matches and ensured there was no excessive battery drain.
+The overheating issue took a while to pinpoint, but it was ultimately determined that limiting the motor output was necessary to achieve a reasonable weapon tip speed. This speed was carefully calculated based on the motor efficiency and data sheet specifications to determine the optimal KV (RPM/Volt) and operating percentage of throttle. Running at full speed resulted in the weapon literally disintegrating due to excessive forces. By limiting the output, I was able to keep the motor relatively cool even in longer matches and ensured there was no excessive battery drain.
  
 The dome print orientation was modified to prevent the shearing issue. No matter the design, print temperature, or structure, the dome would continuously shear horizontally. The dome was also repurposed as a weapon hub to which the weapon mounted, and it was optimized for the tri-blade weapon design. Since my weapon only spun in one direction, the design was made with that in mind, allowing for easier optimization of weight. Additionally, slots were added within the chassis to ensure the drive motor gearboxes were unimpeded, preventing them from rubbing on their retaining walls.
 
