@@ -10,7 +10,7 @@
 
 <br>**1lb Full Combat Antweight Division (ANT):**
 
-- EviscerANT (coming soon)  
+- [EviscerANT](EviscerANT/Eviscerator_(ANT).md) (coming soon)  
   
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
