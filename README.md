@@ -16,8 +16,6 @@
 - (coming soon)
 ---
 
-https://github.com/MaximM19/Combat-Robotics/blob/main/Eviscerator/Videos/Eviscerator%20Vs%20Procrastination(1).mp4
-
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
 
 <img src="Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
