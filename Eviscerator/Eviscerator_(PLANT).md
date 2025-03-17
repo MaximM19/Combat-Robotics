@@ -11,7 +11,7 @@
 
 ## Competition [Videos](https://www.youtube.com/watch?v=Ix6BwbreU1s?list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT):
   <p align="left">
-  <a href="https://www.youtube.com/watch?v=Ix6BwbreU1s?list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
+  <a href="https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
   <img src="https://img.youtube.com/vi/Ix6BwbreU1s/0.jpg" width="400">
     </a>
     <br>
