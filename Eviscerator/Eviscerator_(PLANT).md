@@ -9,6 +9,8 @@
 
 ---
 
+[Videos (youtube): Eviscerator @ TRC Texas Cup 2024 all matches](https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT)
+
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
 
 ![Eviscerator V7](ImagesEviscerator/o4.webp)
