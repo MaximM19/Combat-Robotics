@@ -1,7 +1,7 @@
 # Eviscerator
 
 ([back to main page](../README.md))
-### Current Version brief overview:
+## Current Version brief overview:
 - Overhead spinner w/4WD
 - ~9in diameter 120g weapon
 - Weapon motor: 1300KV (RPM/Volt) 2806.5 brushless
@@ -9,13 +9,16 @@
 
 ---
 
+## Competition Videos:
   <p align="left">
   <a href="https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
   <img src="https://img.youtube.com/vi/gL7ahHKzthY/0.jpg" width="400">
     </a>
     <br>
-    <em>Videos (YouTube): Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
+    <em>Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
   </p>
+
+---
 
 Final version that won 1st at Texas Robot Combat (TRC) Texas Cup 2024 Plastic Antweight Division:
 
