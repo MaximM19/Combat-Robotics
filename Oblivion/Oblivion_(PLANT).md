@@ -8,8 +8,8 @@
 - Uniquely keyed geometry
 - Ability to swap between forks and wedge depending on matchup
   
-![Oblivion V2](ImagesOblivion/i1.jpg)
-![Oblivion V2](ImagesOblivion/i2.jpg)
+![Oblivion V2](ImagesOblivion/h1.jpg)
+![Oblivion V2](ImagesOblivion/h2.jpg)
 
 My design skills have definitely improved and are evident not only in the bot itself but also in how the parts fit together and work properly from essentially the first print.
 
