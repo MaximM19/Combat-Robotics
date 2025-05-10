@@ -4,12 +4,12 @@
 ## Current Version (V2) brief overview:
 - Vertical drum spinner
 - 4WD system using 2 reapt brushed drive motors
-- Weapon Motor: 2207 1860KV Brushless
+- Weapon Motor: ~~2207 1860KV Brushless~~ -> CHANGED to 2208 1800KV Brushless
 - Uniquely keyed geometry
 - Ability to swap between forks and wedge depending on matchup
   
-![Oblivion V2](ImagesOblivion/h1.jpg)
-![Oblivion V2](ImagesOblivion/h2.jpg)
+![Oblivion V2](ImagesOblivion/i1.jpg)
+![Oblivion V2](ImagesOblivion/i2.jpg)
 
 My design skills have definitely improved and are evident not only in the bot itself but also in how the parts fit together and work properly from essentially the first print.
 
@@ -44,6 +44,8 @@ A lot changed between V1 and V2. I realized that the uprights supporting the wea
 ![Oblivion V2](ImagesOblivion/j1.png)
 ![Oblivion V2](ImagesOblivion/j2.png)
 ![Oblivion V2](ImagesOblivion/j3.png)
+![Oblivion V2](ImagesOblivion/h1.jpg)
+![Oblivion V2](ImagesOblivion/h2.jpg)
 
 The current design is pictured at the top of this page and will be updated as the design is.
 
