@@ -40,7 +40,7 @@ More info on SPARC guidelines and rules can be found -> [here](https://www.sparc
 ---
 Full Combat Eviscerator (based on Eviscerator Version 8)
 ---
-<img src="Plastic%20Antweight%20Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
+<img src="Full Combat Antweight Eviscerator/ImagesEviscerANT/c6.jpg" />
 
 ---
 Eviscerator Version 7
