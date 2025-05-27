@@ -4,7 +4,7 @@
 
 ## Current Version:
 
-My first full combat Antweight based on my Plant (Eviscerator (V8) ) that also won 1st at last year's TRC. Some changes had to be made moving from Plant to FC Ant for it to actually work.
+My first full combat Antweight based on my Plant (Eviscerator Version 8 ) that also won 1st at last year's TRC. Some changes had to be made moving from Plant to FC Ant for it to actually work.
 
 The main basis of the bot:
 - 4WD using 4 N20s
