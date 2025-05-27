@@ -3,7 +3,7 @@
 ---
 **1lb Plastic Antweight Division (PLANT):**
 
-- [Eviscerator](Eviscerator/Eviscerator_(PLANT).md) - Won 1st Place @ TRC Texas Cup 2024
+- [Eviscerator](Plastic Antweight - Eviscerator/Eviscerator_(PLANT).md) - Won 1st Place @ TRC Texas Cup 2024
   
    <!-- - Videos (youtube): Eviscerator @ TRC Texas Cup 2024 all matches ](https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT) -->
 
@@ -15,11 +15,11 @@
     <em>Videos (<a href="https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">YouTube link</a>):  
   Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above)</em>
   </p>
-- [Oblivion](Oblivion/Oblivion_(PLANT).md)
+- [Oblivion](Plastic Antweight - Oblivion/Oblivion_(PLANT).md)
 
 <br>**1lb Full Combat Antweight Division (ANT):**
 
-- [EviscerANT](EviscerANT/Eviscerator_(ANT).md) (Being revised for upcoming competitions!)  
+- [EviscerANT](Full Combat Antweight - Eviscerator/Eviscerator_(ANT).md) (Being revised for upcoming competitions!)  
   
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
@@ -34,9 +34,9 @@ More info on SPARC guidelines and rules can be found -> [here](https://www.sparc
 ---
 Eviscerator Version 7
 ---
-<img src="Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
+<img src="Plastic Antweight - Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
 
 Me @ TRC Texas Cup 2024 Receiving First Place Trophy in Plastic Antweight Class:
 
-<img src="Eviscerator/ImagesEviscerator/w1.png" width="20%" />
+<img src="Plastic Antweight - Eviscerator/ImagesEviscerator/w1.png" width="20%" />
 
