@@ -23,7 +23,7 @@ The main basis of the bot:
 - Improved thread engagement for motor mounting to prevent thread pullout,
 - Switched to Dominion DESCs for better reliability (I killed a lot of Budget DESCs)
 
-<img src="Full_Combat_Antweight_Eviscerator/ImagesEviscerANT/c1.jpg" />
+<img src="Full_Combat_Antweight_Eviscerator/ImagesEviscerANT/c1.jpg"/>
 
 
 
