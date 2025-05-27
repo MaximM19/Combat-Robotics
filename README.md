@@ -38,6 +38,10 @@ Built to Follow [SPARC Robot Construction Specifications](https://www.sparc.tool
 More info on SPARC guidelines and rules can be found -> [here](https://www.sparc.tools/) <-
 
 ---
+Full Combat Eviscerator (based on Eviscerator Version 8)
+---
+
+---
 Eviscerator Version 7
 ---
 <img src="Plastic%20Antweight%20Eviscerator/ImagesEviscerator/o4.webp" width="60%" />
