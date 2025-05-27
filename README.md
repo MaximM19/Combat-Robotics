@@ -3,7 +3,7 @@
 ---
 **1lb Plastic Antweight Division (PLANT):**
 
-- [Eviscerator](Plastic%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Texas Cup 2024
+- [Plant Eviscerator](Plastic%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Texas Cup 2024
 
   <p align="left">
   <a href="https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
@@ -17,7 +17,7 @@
 
 <br>**1lb Full Combat Antweight Division (ANT):**
 
-- [Eviscerator](Full%20Combat%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Robot Rodeo 2025
+- [Ant Eviscerator](Full%20Combat%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Robot Rodeo 2025
 
   <p align="left">
   <a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">
