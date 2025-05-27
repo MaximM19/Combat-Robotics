@@ -25,8 +25,13 @@ The main basis of the bot:
 
 <img src="ImagesEviscerANT/c1.jpg"/>
 
+<img src="ImagesEviscerANT/c2.jpg"/>
 
+<img src="ImagesEviscerANT/c3.jpg"/>
 
+<img src="ImagesEviscerANT/c4.jpg"/>
+
+<img src="ImagesEviscerANT/c5.jpg"/>
 
 ---
 
