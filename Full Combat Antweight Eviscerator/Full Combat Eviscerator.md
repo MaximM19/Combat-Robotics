@@ -2,6 +2,19 @@
 
 ([back to main page](../README.md))
 
+---
+
+## Competition [Videos](https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT):
+  <p align="left">
+  <a href="https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">
+  <img src="https://img.youtube.com/vi/Ix6BwbreU1s/0.jpg" width="400">
+    </a>
+    <br>
+    <em>Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
+  </p>
+
+---
+
 ## Current Version:
 
 My first full combat Antweight based on my Plant (Eviscerator Version 8 ) that also won 1st at last year's TRC. Some changes had to be made moving from Plant to FC Ant for it to actually work.
