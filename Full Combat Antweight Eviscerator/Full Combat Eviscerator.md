@@ -35,7 +35,7 @@ The main basis of the bot:
 
 ---
 
-Early Design:
+## Early Design:
 
 ![EviscerANT CAD](ImagesEviscerANT/a1.png)
 
