@@ -15,13 +15,6 @@ The main basis of the bot:
 - 4S setup with two 2S lipos in series
 - Dome for self-righting
 
-## Plant-to-Ant Upgrades & General Improvements:
-- Face mounting the N20s has helped a lot with ground contact as before my top plate that was holding down the drive motors would flex upwards resulting in less than ideal ground contact,
-- Weapon hub height reduced to account for lower center of mass,
-- Weapon hub changed from solid 98A TPU to 95A TPU to prevent weapon bending,
-- Weapon geometry optimized for more consistent bite as one blade is longer than the other two but the MOI ratio remains near perfect at 2.07 (perfect is 2.0),
-- Improved thread engagement for motor mounting to prevent thread pullout,
-- Switched to Dominion DESCs for better reliability (I killed a lot of Budget DESCs)
 ---
 
 ## Competition [Videos](https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT):
@@ -32,6 +25,16 @@ The main basis of the bot:
     <br>
     <em>Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above) </em>
   </p>
+
+---
+
+## Plant-to-Ant Upgrades & General Improvements:
+- Face mounting the N20s has helped a lot with ground contact as before my top plate that was holding down the drive motors would flex upwards resulting in less than ideal ground contact,
+- Weapon hub height reduced to account for lower center of mass,
+- Weapon hub changed from solid 98A TPU to 95A TPU to prevent weapon bending,
+- Weapon geometry optimized for more consistent bite as one blade is longer than the other two but the MOI ratio remains near perfect at 2.07 (perfect is 2.0),
+- Improved thread engagement for motor mounting to prevent thread pullout,
+- Switched to Dominion DESCs for better reliability (I killed a lot of Budget DESCs)
 
 ---
 
