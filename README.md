@@ -3,7 +3,7 @@
 ---
 **1lb Plastic Antweight Division (PLANT):**
 
-- [Eviscerator](Eviscerator/Plastic_Antweight_Eviscerator/Eviscerator_(PLANT).md) - Won 1st Place @ TRC Texas Cup 2024
+- [Eviscerator](Combat-Robotics/Plastic Antweight Eviscerator/Eviscerator_(PLANT).md) - Won 1st Place @ TRC Texas Cup 2024
   
    <!-- - Videos (youtube): Eviscerator @ TRC Texas Cup 2024 all matches ](https://www.youtube.com/watch?v=gL7ahHKzthY&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT) -->
 
