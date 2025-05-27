@@ -17,7 +17,7 @@
 
 <br>**1lb Full Combat Antweight Division (ANT):**
 
-- [Ant Eviscerator](Full%20Combat%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Robot Rodeo 2025
+- [Ant Eviscerator](Full%20Combat%20Antweight%20Eviscerator/Eviscerator%28ANT%29.md) - Won 1st Place @ TRC Robot Rodeo 2025
 
   <p align="left">
   <a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">
