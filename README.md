@@ -24,8 +24,8 @@
   <img src="https://img.youtube.com/vi/IHrKsuDs648/maxresdefault.jpg" width="400">
     </a>
     <br>
-    <em>Videos (<a href="https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT">YouTube link</a>):  
-  Eviscerator (Black & White Bot) @ TRC Texas Cup 2024 all matches (click image above)</em>
+    <em>Videos (<a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">YouTube link</a>):  
+  Eviscerator (Red and Black Bot) @ TRC Robot Rodeo 2025 all matches (click image above)</em>
   </p>
 <br>**3lb Beetleweight Divion:**
 - (coming soon)
