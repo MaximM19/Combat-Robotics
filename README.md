@@ -20,7 +20,7 @@
 - [Eviscerator](Full%20Combat%20Antweight%20Eviscerator/Eviscerator_%28PLANT%29.md) - Won 1st Place @ TRC Robot Rodeo 2025
 
   <p align="left">
-  <a href="https://www.youtube.com/playlist?list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">
+  <a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">
   <img src="https://img.youtube.com/vi/Ix6BwbreU1s/0.jpg" width="400">
     </a>
     <br>
