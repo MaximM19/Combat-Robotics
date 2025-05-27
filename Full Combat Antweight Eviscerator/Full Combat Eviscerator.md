@@ -17,13 +17,13 @@ The main basis of the bot:
 
 ---
 
-## Competition [Videos](https://www.youtube.com/watch?v=Ix6BwbreU1s&list=PLaajWfdDszmCy5Lru08SvIwDpJg_W1IqT):
+## Competition [Videos](https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu):
    <p align="left">
   <a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">
   <img src="https://img.youtube.com/vi/IHrKsuDs648/maxresdefault.jpg" width="400">
     </a>
     <br>
-    <em>Videos (<a href="https://www.youtube.com/watch?v=IHrKsuDs648&list=PLaajWfdDszmCh5tCpU_RqkM--nwtsRARu">YouTube link</a>):  
+    <em>Videos:  
   Eviscerator (Red and Black Bot) @ TRC Robot Rodeo 2025 all matches (click image above)</em>
   </p>
 
