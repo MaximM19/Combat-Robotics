@@ -2,8 +2,7 @@
 
 ([back to main page](../README.md))
 
-
-##Current Version:
+## Current Version:
 
 My first full combat Antweight based on my Plant (Eviscerator (V8) ) that also won 1st at last year's TRC. Some changes had to be made moving from Plant to FC Ant for it to actually work.
 
@@ -16,7 +15,7 @@ The main basis of the bot:
 - 4S setup with two 2S lipos in series
 - Dome for self-righting
 
-#Improvements and Changes from Plant to Ant and Ant improvements:
+# Improvements and Changes from Plant to Ant and Ant improvements:
 - Face mounting the N20s has helped a lot with ground contact as before my top plate that was holding down the drive motors would flex upwards resulting in less than ideal ground contact,
 - Weapon hub height reduced to account for lower center of mass,
 - Weapon hub changed from solid 98A TPU to 95A TPU to prevent weapon bending,
