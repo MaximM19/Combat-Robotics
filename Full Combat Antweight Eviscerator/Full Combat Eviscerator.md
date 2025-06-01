@@ -7,12 +7,12 @@
 My first full combat Antweight based on my Plant (Eviscerator Version 8 ) that also won 1st at last year's TRC. Some changes had to be made moving from Plant to FC Ant for it to actually work.
 
 The main basis of the bot:
-- 4WD using 4 N20s
+- 4WD using 4 500 RPM N20 motors
 - ~9" dia weapon at ~120g
-- Monolithic Polymax chassis
-- TPU weapon hub
-- Direct Drive weapon motor: battle hardened 1300KV true 2806.5 w/6mm internal shaft (throttle heavily limited as uncapped tip speed >500MPH)
-- 4S setup with two 2S lipos in series
+- Monolithic Polymax PLA chassis
+- 95A TPU weapon hub
+- Direct Drive weapon motor: battle hardened (epoxied magnet ring) 1300KV (RPM/Volt) true 2806.5 w/6mm internal shaft (throttle heavily limited as uncapped tip speed >500MPH)
+- 4S setup with two 2S LiPos (Lithium Polymer Battery) in series
 - Dome for self-righting
 
 ---
